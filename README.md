@@ -6,8 +6,11 @@
 ---
 
 ## Abstract
-This repository contains the **data collection (crawling) module** developed for the Cafe Greenwon Digital Transformation project.  
-It automates the collection of sales and order data from multiple external platforms and outputs structured Excel files for analysis and makes a dashboard.
+This project addresses the lack of accessible sales data and reliance on experience-based decision-making despite years of operation.  
+The overall goal was to enable data-driven management by automating data collection, building a unified database, and supporting analysis and operational optimization.
+
+This repository focuses specifically on the **data collection (crawling) component** that I was responsible for, automating the extraction of sales data from multiple external platforms to establish a reliable foundation for downstream analysis, visualization, and scheduling optimization.
+
 
 
 ## Problem
